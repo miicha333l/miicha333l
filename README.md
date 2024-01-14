@@ -1,5 +1,5 @@
 # 💫 About Me:
-👯 Je travaille actuellement sur: Une application en Kotlin axée sur les média sociaux.<br><br>🤝 Je suis ouvert à la collaboration sur: Des améliorations de l'architecture, des fonctionnalités spécifiques, ou toute idée novatrice pour enrichir l'application.<br><br>🌱 Je suis en train d'apprendre: Des aspects spécifiques de Kotlin, des bibliothèques ou frameworks particuliers, ou peut-être des concepts liés au développement fullstack.<br><br>💬 On peut me demander à propos de: Des défis que vous avez rencontrés et résolus, des choix technologiques, des bonnes pratiques en Kotlin, ou tout autre sujet qui pourrait intéresser vos collègues développeurs.<br><br>⚡ Fun fact: Partagez quelque chose d'amusant ou d'unique sur vous, peut-être un hobby en dehors de la programmation, une anecdote intéressante liée à votre travail, ou tout autre aspect de votre personnalité.
+👯 Je travaille actuellement: Une application en Kotlin axée sur les média sociaux.<br><br>🤝 Je suis ouvert à la collaboration sur: Des améliorations de l'architecture, des fonctionnalités spécifiques, ou toute idée novatrice pour enrichir l'application.<br><br>🌱 Je suis en train d'apprendre: Des aspects spécifiques de Kotlin, des bibliothèques ou frameworks particuliers, ou peut-être des concepts liés au développement fullstack.<br><br>💬 On peut me demander à propos de: Des défis que vous avez rencontrés et résolus, des choix technologiques, des bonnes pratiques en Kotlin, ou tout autre sujet qui pourrait intéresser vos collègues développeurs.<br><br>⚡ Fun fact: Partagez quelque chose d'amusant ou d'unique sur vous, peut-être un hobby en dehors de la programmation, une anecdote intéressante liée à votre travail, ou tout autre aspect de votre personnalité.
 
 
 # 💻 Tech Stack:
@@ -13,7 +13,7 @@
 [![](https://visitcount.itsvg.in/api?id=miicha333l&icon=0&color=0)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
-  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/donate/?hosted_button_id=H9MTDET84ZUL8) 
+  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/https://www.paypal.com/donate/?hosted_button_id=H9MTDET84ZUL8
 
   
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
