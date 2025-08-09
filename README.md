@@ -1,51 +1,85 @@
- # 👋 Hello, I'm Miicha333l
+# 👋 Hello, I'm Miicha333l
 
-Bienvenue sur mon profil GitHub !
+Bienvenue sur mon profil GitHub !  
+Explorez mon univers mainframe et open source.
 
 ---
 
 ## 🚀 À propos de moi
 
-- 💻 Je travaille actuellement sur l’environnement **IBM Z** et la programmation **COBOL**
+- 💻 Je travaille sur l’environnement **IBM Z** et la programmation **COBOL**
 - 🌱 J’explore le mainframe, le JCL, la gestion des datasets et les outils modernes comme **VS Code** et **Zowe Explorer**
 - 🛠️ J’apprends à automatiser et à comprendre les workflows mainframe
+- 🧠 Passionné par l’apprentissage continu et le partage de connaissances
 
 ---
 
 ## 📚 En ce moment
 
-Je participe à des défis et des exercices sur IBM Z Xplore pour approfondir mes compétences COBOL et mainframe.
+Je participe à des défis et exercices sur **IBM Z Xplore** pour approfondir mes compétences COBOL et mainframe.
 
 ---
 
-*Merci de visiter mon profil !*
+*Merci de visiter mon profil ! N'hésitez pas à me contacter pour échanger !*
 
+---
 
-# 💻 Techno:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Bulma](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![COBOL](https://img.shields.io/badge/COBOL-blue?style=for-the-badge) ![JCL](https://img.shields.io/badge/JCL-007396?style=for-the-badge&logo=ibm&logoColor=white) ![IBM Z / zOS](https://img.shields.io/badge/IBM%20Z%20/%20zOS-000000?style=for-the-badge&logo=ibm&logoColor=white) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white) ![Zowe Explorer](https://img.shields.io/badge/Zowe%20Explorer-00B5E2?style=for-the-badge&logo=ibm&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+# 💻 Technologies
 
-# 📊 GitHub Statistiques
+![COBOL](https://img.shields.io/badge/COBOL-blue?style=for-the-badge)
+![JCL](https://img.shields.io/badge/JCL-grey?style=for-the-badge)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Zowe Explorer](https://img.shields.io/badge/Zowe-1E90FF?style=for-the-badge)
+![Python](https://img.shields.io/badge/python-3776AB.svg?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+# 📊 Statistiques GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=miicha333l&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miicha333l&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=miicha333l&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Stats GitHub"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miicha333l&theme=tokyonight&hide_border=true" height="160" alt="Streak Stats"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miicha333l&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
+</p>
+
+---
+
+## 🐍 Contributions en mouvement
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miicha333l&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://raw.githubusercontent.com/miicha333l/miicha333l/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
 </p>
 
 ---
 
-## 🐍 Mes contributions en mouvement
-![snake gif](https://github.com/miicha333l/miicha333l/blob/output/github-contribution-grid-snake.svg)
-
+<p align="center">
+  <a href="https://visitcount.itsvg.in/api?id=miicha333l&icon=0&color=0">
+    <img src="https://visitcount.itsvg.in/api?id=miicha333l&icon=0&color=0" alt="Visit Count"/>
+  </a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=miicha333l&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💰 Vous pouvez m'aider en faisant un don
-[![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://www.paypal.com/donate/?hosted_button_id=H9MTDET84ZUL8)
+## 💰 Soutenez-moi
 
+Vous pouvez m'aider en faisant un don :
 
+<p>
+  <a href="https://www.paypal.com/donate/?hosted_button_id=H9MTDET84ZUL8">
+    <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal Donate"/>
+  </a>
+</p>
 
+---
+
+**Astuce pour le bon fonctionnement :**  
+- Vérifiez que les liens d’images et de statistiques sont corrects et actifs.  
+- Pour le snake de contributions, assurez-vous d’avoir configuré le workflow GitHub Actions ([voir le guide](https://github.com/Platane/snk)).
+
+---
+
+> 📫 **Contactez-moi pour toute collaboration ou question !**
