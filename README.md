@@ -40,7 +40,6 @@ Je participe à des défis et exercices sur **IBM Z Xplore** pour approfondir me
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=miicha333l&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Stats GitHub"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=miicha333l&theme=tokyonight&hide_border=true" height="160" alt="Streak Stats"/>
 </p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miicha333l&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
