@@ -34,7 +34,6 @@ Je participe à des défis et exercices sur **IBM Z Xplore** pour approfondir me
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
----
 
 # 📊 Statistiques GitHub
 
@@ -42,7 +41,7 @@ Je participe à des défis et exercices sur **IBM Z Xplore** pour approfondir me
   <img src="https://github-readme-stats.vercel.app/api?username=miicha333l&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Stats GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miicha333l&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
 </p>
----
+
 
 ## 💰 Soutenez-moi
 
