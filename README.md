@@ -48,22 +48,6 @@ Je participe à des défis et exercices sur **IBM Z Xplore** pour approfondir me
 
 ---
 
-## 🐍 Contributions en mouvement
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/miicha333l/miicha333l/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-</p>
-
----
-
-<p align="center">
-  <a href="https://visitcount.itsvg.in/api?id=miicha333l&icon=0&color=0">
-    <img src="https://visitcount.itsvg.in/api?id=miicha333l&icon=0&color=0" alt="Visit Count"/>
-  </a>
-</p>
-
----
-
 ## 💰 Soutenez-moi
 
 Vous pouvez m'aider en faisant un don :
@@ -73,12 +57,6 @@ Vous pouvez m'aider en faisant un don :
     <img src="https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white" alt="Paypal Donate"/>
   </a>
 </p>
-
----
-
-**Astuce pour le bon fonctionnement :**  
-- Vérifiez que les liens d’images et de statistiques sont corrects et actifs.  
-- Pour le snake de contributions, assurez-vous d’avoir configuré le workflow GitHub Actions ([voir le guide](https://github.com/Platane/snk)).
 
 ---
 
