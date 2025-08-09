@@ -42,7 +42,6 @@ Je participe à des défis et exercices sur **IBM Z Xplore** pour approfondir me
   <img src="https://github-readme-stats.vercel.app/api?username=miicha333l&show_icons=true&theme=tokyonight&hide_border=true" height="160" alt="Stats GitHub"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=miicha333l&layout=compact&theme=tokyonight&hide_border=true" height="160" alt="Top Languages"/>
 </p>
-
 ---
 
 ## 💰 Soutenez-moi
